@@ -6,6 +6,7 @@ The aim of this project is to develop a class hierarchy capable of performing va
 
 
 OUTPUTS
+
 Grayscale:
 ![grayscale](https://github.com/user-attachments/assets/319858e1-719b-4303-9d38-6891ac66b1f3)
 
